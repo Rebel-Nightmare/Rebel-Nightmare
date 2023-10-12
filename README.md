@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 Currently CyberSecurity student at Università degli Studi di Milano
+- ⚡ Passionate about cyberSec, tech and videogames
+
 <!--
 **Rebel-Nightmare/Rebel-Nightmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
