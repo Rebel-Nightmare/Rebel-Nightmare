@@ -1,7 +1,7 @@
 ### Hi there, I'm Rebel-Nightmare 👋
 
 - 🌱 Currently CyberSecurity student at Università degli Studi di Milano
-- ⚡ Passionate about CyberSec, tech and videogames
+- ⚡ Passionate about CyberSec, tech, videogames and art
 
 ### My recent projects! 🌷
 - 🐳 [DONE](https://github.com/IPoAC-SMT/DONE) - Docker Orchestrator for Network Emulation
