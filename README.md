@@ -5,7 +5,7 @@
 
 ### My recent projects! 🌷
 - 🐳 [DONE](https://github.com/IPoAC-SMT/DONE) - Docker Orchestrator for Network Emulation
-
+- 🔐 [SmolASCON](https://github.com/ASCONEnjoyers/smolASCON) - An ASCON implementation for embedded environments
 <!--
 **Rebel-Nightmare/Rebel-Nightmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
